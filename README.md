@@ -1,3 +1,3 @@
 # kscv
 
-#basic works with git
+#basic work with git
